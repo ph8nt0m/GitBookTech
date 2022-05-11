@@ -30,4 +30,6 @@
 
 Amazone Web Services는 6가지 데브옵스 모법 사례를 제시합니다.
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">ㅁㄴㅇㅁㄴㅇ
+1. 지속적 통합(Continuous Integration)
+
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">
