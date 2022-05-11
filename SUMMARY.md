@@ -4,7 +4,7 @@
 
 ## 🖥 DevOps
 
-* [Untitled](devops/untitled.md)
+* [DevOps 정의](devops/devops.md)
 
 ## 📱 Swift
 
