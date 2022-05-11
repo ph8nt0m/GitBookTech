@@ -30,6 +30,38 @@
 
 Amazone Web Services는 6가지 데브옵스 모법 사례를 제시합니다.
 
-1. 지속적 통합(Continuous Integration)
+### 1. 지속적 통합 (Continuous Integration)
 
-<img src="../.gitbook/assets/image.png" alt="" data-size="original">
+개발자가 만든 변경 사항에 대해서 빌드 및 테스트를 진행해본 후에 중앙 리포지토리에 통합함으로써 신속하게 버그를 발견하고 제품의 품질을 개선하며, 새로운 변경 사항을 테스트 및 배포하는 데 걸리는 시간을 단축하는 것입니다.
+
+![Continuous Integration](../.gitbook/assets/image.png)
+
+### 2. 지속적 전달 (Continuous Delivery)
+
+개발의 산출물을 프로덕션에 배포하기 위한 코드 변경이 자동으로 빌드, 테스트 되는 개발 방식입니다. 지속적 전달이 적절하게 구현되면, 개발자는 언제나 즉시 배포할 수 있게 됩니다.
+
+![Continuous Delivery](<../.gitbook/assets/image (1).png>)
+
+### 3. 마이크로 서비스 (Micro-Service)
+
+마이크로 서비스 아키텍쳐(MSA)는 큰 서비스를 작은 서비스의 집합으로 구축하는 설계 방식입니다. 큰 서비스를 마이크로 서비스 없이 설계하게 된다면, 빌드 및 테스트에 많은 시간이 소요되고 병목 현상이 발생할 가능성이 높으며 발생 원인을 찾기도 힘듭니다.
+
+![Micro-Service](<../.gitbook/assets/image (4).png>)
+
+### 4. IaC (Infrastructure as Code)
+
+인프라 구조를 코드로 관리하는 방식입니다. 개발자나 시스템 관리자가 수동으로 리소스를 설정 및 구성할 필요 없이 코드로 대규모 인프라와 상호 작용할 수 있습니다.
+
+![Infrastructure as Code](<../.gitbook/assets/image (3).png>)
+
+### 5. 모니터링과 로깅 (Monitoring & Logging)
+
+개발자에게 제품의 지표와 로그를 중앙에서 모니터링할 수 있는 환경을 제공해주면, 직접 운영에 참여함으로써 제품에 문제가 발생하였을 때 빠르게 처리할 수 있습니다.
+
+![Monitoring & Logging](<../.gitbook/assets/image (5).png>)
+
+### 6. 커뮤니케이션 및 협업 (Communication & Collaboration)
+
+조직 내에서 커뮤니케이션과 협업이 증가하는 것도 DevOps의 주요 문화입니다. Slack과 같은 메신저 시스템이나 JIRA 같은 이슈 관리 시스템, Confluence 및 Notion과 같은 위키 시스템을 잘 활용하는 것입니다.
+
+![Communication & Collaboration](<../.gitbook/assets/image (2).png>)
