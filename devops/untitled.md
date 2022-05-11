@@ -10,7 +10,7 @@
 
 ![Dev + Ops](<../.gitbook/assets/CleanShot 2022-05-11 at 13.11.10@2x.png>)
 
-## DevOps 개요![](<../.gitbook/assets/CleanShot 2022-05-11 at 13.19.48@2x.png>)
+## DevOps 개요
 
 구글의 검색어 트렌드를 살펴보면 DevOps가 주목 받기 시작한 것은 2009년부터 입니다.
 
@@ -24,4 +24,10 @@
 
 ![Software Develop Life Cycle](<../.gitbook/assets/CleanShot 2022-05-11 at 13.23.44@2x.png>)
 
-> 데브옵스는 ㅐㄴ
+> 개발자는 작성한 코드를 스스로 테스트하고, 배포하고, 운영할 수 있으며 이에 대한 피드백을 전달받아 다시 코드를 작성할 수 있게 됩니다.
+
+## AWS DevOps
+
+Amazone Web Services는 6가지 데브옵스 모법 사례를 제시합니다.
+
+<img src="../.gitbook/assets/image.png" alt="" data-size="original">ㅁㄴㅇㅁㄴㅇ
