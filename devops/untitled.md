@@ -10,4 +10,18 @@
 
 ![Dev + Ops](<../.gitbook/assets/CleanShot 2022-05-11 at 13.11.10@2x.png>)
 
-## DevOps 역사
+## DevOps 개요![](<../.gitbook/assets/CleanShot 2022-05-11 at 13.19.48@2x.png>)
+
+구글의 검색어 트렌드를 살펴보면 DevOps가 주목 받기 시작한 것은 2009년부터 입니다.
+
+![DevOps Google Search Analytics](<../.gitbook/assets/CleanShot 2022-05-11 at 13.13.15@2x.png>)
+
+소프트웨어 개발은 아래와 같은 라이프사이클을 가지고 있습니다.
+
+설계 => 개발 => 테스트 => 배포 => 운영 => 피드백을 각 분리된 조직에서 처리를 하는 방식인데요,&#x20;
+
+각 단계마다 분리된 조직이 있기에 의사소통에 어려움이 있고, 놓치는 경우가 생길 수 있습니다.
+
+![Software Develop Life Cycle](<../.gitbook/assets/CleanShot 2022-05-11 at 13.23.44@2x.png>)
+
+> 데브옵스는 ㅐㄴ
